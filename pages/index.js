@@ -1,5 +1,13 @@
+import React from "react";
+
 const Home = () => {
-  return <h1> Em Construção </h1>;
+  return (
+    <div className="flex justify-center items-center h-screen">
+      <h1 className="text-4xl font-bold text-center">
+        🚧 Art Gallery Under Construction 🚧
+      </h1>
+    </div>
+  );
 };
 
 export default Home;
