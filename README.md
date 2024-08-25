@@ -1,3 +1,3 @@
-# project-hub
+# base-project
 
-Central hub for my projects and code samples. More content on the way!
+Repository to consolidate the knowledge of the course curso.dev.
